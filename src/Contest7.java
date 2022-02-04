@@ -1,5 +1,6 @@
-import java.util.Scanner;
 //Traverse Array Max Min
+
+import java.util.Scanner;
 public class Contest7 {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
